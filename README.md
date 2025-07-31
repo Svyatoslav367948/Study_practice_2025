@@ -12,7 +12,7 @@
 3.	Протестировать на имеющихся данных.
 4.	С помощью специализированных программ создать прототип рабочего сайта для онлайн взаимодействия пользователей с результатами работы нейронной сети.
 
-В данной работе вы можете найти запрограммированную нейронную сеть, код представлен в файле [Practice_First_version.ipynb](https://github.com/Svyatoslav367948/Study_practice_2025/blob/main/Practice_First_version.ipynb) (код выполнен в Google.Colab).
+В данной работе вы можете найти запрограммированную нейронную сеть, код представлен в файле [Practice_First_version.ipynb](https://github.com/Svyatoslav367948/Study_practice_2025/blob/main/Practice_First_version.ipynb) (код выполнен в Google.Colab). 
 А также, [прототип сайта](https://www.figma.com/proto/i4Gk1G0kysjLKn43GPSHDV/2?node-id=0-1&t=J8sNpllQRB1ACkEM-1) для моего проекта, выполненный в фигме.
 
 В документе [Practice_describtion](https://docs.google.com/document/d/1vjnIWzzua8_BiVoPmMXgbNMr2dNn1Hg334CpZO9n5ks/edit?usp=drive_link).
