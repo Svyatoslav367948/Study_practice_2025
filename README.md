@@ -16,5 +16,5 @@
 
 А также, [прототип сайта](https://www.figma.com/proto/i4Gk1G0kysjLKn43GPSHDV/2?node-id=0-1&t=J8sNpllQRB1ACkEM-1) для моего проекта, выполненный в figma.
 
-В документе [Practice_describtion](https://docs.google.com/document/d/1vjnIWzzua8_BiVoPmMXgbNMr2dNn1Hg334CpZO9n5ks/edit?usp=drive_link).
+В документе [Practice_describtion](https://docs.google.com/document/d/1vjnIWzzua8_BiVoPmMXgbNMr2dNn1Hg334CpZO9n5ks/edit?usp=drive_link) содержится описание базы данных.
   
